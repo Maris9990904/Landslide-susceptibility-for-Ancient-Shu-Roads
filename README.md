@@ -1,8 +1,9 @@
-# TabPFN
+
 
 ## 🏁 Quick Start
 
 ### Interactive Notebook Tutorial
+TabPFN
 > [!TIP]
 >
 > Dive right in with our interactive Colab notebook! It's the best way to get a hands-on feel for TabPFN, walking you through installation, classification, and regression examples.
