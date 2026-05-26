@@ -1,0 +1,4 @@
+#python my_arg.py 1kilo2012elev/all2012_1km_with_elev_1to3_wo_0_1.xlsx 1kilo2012elev/predictions_class_1_results.xlsx
+# python my_arg.py 1kilo2012elev/all2012_1km_with_elev_1to3_wo_0_2.xlsx 1kilo2012elev/predictions_class_2_results.xlsx
+# python my_arg.py 1kilo2012elev/all2012_1km_with_elev_1to3_wo_0_3.xlsx 1kilo2012elev/predictions_class_3_results.xlsx
+# python my_arg.py 1kilo2012elev/all2012_1km_with_elev_1to3_wo_0_4.xlsx 1kilo2012elev/predictions_class_4_results.xlsx
